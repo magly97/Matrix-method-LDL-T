@@ -1,1 +1,1 @@
-# Obliczanie-macierzy-metod-LDL-T
+# Matix-metod-LDL-T
